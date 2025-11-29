@@ -1,0 +1,4 @@
+- [x] Add imports for MLPredictions and ReportGenerator in AppRoutes.tsx
+- [x] Add route for /marine-ai
+- [x] Add route for /ml-predictions
+- [x] Add route for /report-generator
